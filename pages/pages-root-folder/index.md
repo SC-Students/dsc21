@@ -31,7 +31,7 @@ homepage: true
 <div class="row medium-uncollapse large-collapse" style="vertical-align: middle; line-height:200px">
     <div class="medium-4 columns"><center>
     <a href="{{ site.url }}{{ site.baseurl }}/meetings/">
-    <img src="{{ site.urlimg }}/general/rawpixel-702137-unsplash.jpg" alt=""></a></center>
+    <img src="{{ site.urlimg }}/rawpixel-702137-unsplash.jpg" alt=""></a></center>
     </div><!-- /.medium-4.columns -->
     <div class="medium-6 columns end">
     	<ul style="list-style-type:none">

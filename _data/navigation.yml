@@ -10,20 +10,21 @@
   url: "/competition/"
   side: left
 
-- title: "Teams"
-  url: "/teams/"
-  side: left
-  dropdown:
-  - title: "Team A"
-    url: "/teams/teama/"
-  - title: "Team B"
-    url: "/teams/teamb/"
-  - title: "Team C"
-    url: "/teams/teamc/"
-  - title: "Team D"
-    url: "/teams/teamd/"
-  - title: "Team E"
-    url: "/teams/teame/"
+#- title: "Teams"
+#  url: "/teams/"
+#  side: left
+#  dropdown:
+#
+#  - title: "Team A"
+#    url: "/teams/teama/"
+#  - title: "Team B"
+#    url: "/teams/teamb/"
+#  - title: "Team C"
+#    url: "/teams/teamc/"
+#  - title: "Team D"
+#    url: "/teams/teamd/"
+#  - title: "Team E"
+#    url: "/teams/teame/"
 
 - title: "Resources"
   url: "/resources/"
@@ -38,6 +39,6 @@
   url: "/search/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
+#- title: "Contact"
+#  url: "/contact/"
+#  side: right

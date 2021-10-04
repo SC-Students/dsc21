@@ -48,4 +48,4 @@ homepage: true
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 <br>
-<center><a class="button large radius alert" href="https://sc-students.github.io/dsc21/contact/">Contact the organizers ›</a></center>
+<center><a class="button large radius alert" href="https://sc21.supercomputing.org/contact-us/?topic=Students%40SC%3A+Data+Science+Competition">Contact the organizers ›</a></center>

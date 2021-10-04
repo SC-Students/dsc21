@@ -51,6 +51,5 @@ homepage: true
 <center><a class="button large radius alert" href="https://sc21.supercomputing.org/contact-us/?topic=Students%40SC%3A+Data+Science+Competition">Contact the organizers ›</a></center>
 
 <center>
-### Competition Support
-<img src="{{ site.urlimg }}/sc21_h_coloronlight.png"><img src="{{ site.urlimg }}/oracle-1.png">
+<img src="{{ site.urlimg }}/sc21_h_coloronlight.png" width=300px height=auto><img src="{{ site.urlimg }}/oracle-1.png" width=400px height=auto>
 </center>

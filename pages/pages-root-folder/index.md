@@ -39,11 +39,10 @@ homepage: true
 		<li> We have a variety of events planned for before, during, and after the competition. A few upcoming 
     events of interest will be kept here, but for the most up-to-date information, check out the
 		 <a href="{{ site.url }}{{ site.baseurl }}/schedule/"> schedule › </a></li>
-		<li><h4> Designing Data Projects </h4></li>
-		<li><b>October 5, 2021 4-5pm EDT US, Zoom</b></li>
-		<li>Join us for a discussion on best practices in creating a new data-driven project to generate
-    meaningful results. We'll have a panel of professional data scientists join us to discuss their
-    experiences and answer questions. Invites sent with more info, check your email!</li>
+		<li><h4> Data to Dashboards </h4></li>
+		<li><b>October 21, 2021 11am EDT US, Zoom</b></li>
+		<li><h4> Getting Started with Oracle Cloud</h4>
+    </li><b>October 22, 2021, Recording to be sent</b>
 		</ul>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->

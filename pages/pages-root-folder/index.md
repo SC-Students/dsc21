@@ -39,10 +39,8 @@ homepage: true
 		<li> We have a variety of events planned for before, during, and after the competition. A few upcoming 
     events of interest will be kept here, but for the most up-to-date information, check out the
 		 <a href="{{ site.url }}{{ site.baseurl }}/schedule/"> schedule › </a></li>
-		<li><h4> Data to Dashboards </h4></li>
-		<li><b>October 21, 2021 11am EDT US, Zoom</b></li>
-		<li><h4> Getting Started with Oracle Cloud</h4>
-    </li><b>October 22, 2021, Recording to be sent</b>
+		<li><h4> Competition Orientation and Kick-off </h4></li>
+		<li><b>October 29, 2021 1pm EDT US, Zoom</b></li>
 		</ul>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->

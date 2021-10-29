@@ -35,6 +35,8 @@
   dropdown:
   - title: "Educational"
     url: "/resources/educational/"
+  - title: "Oracle"
+    url: "/resources/oracle/"
   - title: "Datasets"
     url: "/resources/datasets/"
 

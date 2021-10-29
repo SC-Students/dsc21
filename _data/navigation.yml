@@ -9,6 +9,9 @@
 - title: "Competition Details"
   url: "/competition/"
   side: left
+  dropdown:
+  - title: "Phase 1"
+    url: "/competition/phase1/"
 
 #- title: "Teams"
 #  url: "/teams/"

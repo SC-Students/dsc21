@@ -31,9 +31,14 @@ These are guidelines and rules to help mentors and teams succeed during the comp
   - Scoping and planning for the weekends
   - Initiating data sourcing as desired, locally to transfer later
   - Review of what happened in each Phase to summarize the work
-  - There is no minimum time requirement for working on either Phase, however, we expect students will need to do some amount of work each day
-  - A final presentation (5-10 minutes) of the results should be created by each team walking through their project(s) and results. Presentations should be recorded ahead of time in case of issues with presenting them live during judging. 
-  - At least 1 team member should be present during judging
+- There is no minimum time requirement for working on either Phase, however, we expect students will need to do some amount of work each day
+- A final presentation (5-10 minutes) of the results should be created by each team walking through their project(s) and results. Presentations should be recorded ahead of time in case of issues with presenting them live during judging. 
+- At least 1 team member should be present during judging
+- Clarification: Please adhere to the following rules of when coding on the project is allowed:
+  - Phase 1 (Oct 29-31) and Phase 2 (Nov 5-7) should comprise the bulk of the coding and analysis work.
+  - In between phases (Nov 1-5) the only coding work that should be done is if the team needs to scrape any data for their work (ie pull recent tweets from Twitter, scrape YouTube, etc) or sourcing their data in any way
+  - After each phase is complete, the full report is due to the committee by the next day (Nov 1 and Nov 8, respectively) by 11:59pm Central US time. Students may finish any last minute items or tidying up as they wish, but they must also complete the summary of work to submit. This report should contain the work that was done
+  - After the final phase, the only coding work that may be completed to finish off their projects before judging (Nov 17) is to clean up any figures they may need for their presentation. The time between Nov 8 - Nov 17 should focus on creating and finalizing their presentations and attending the conference programs. 
 
 ### Phase 1 Rules 
 - Teams must complete Phase 1 to move into Phase 2

@@ -24,7 +24,7 @@ The data is publicly available via the USDA website. This data must be used for 
     - QuickStats data will allow you to pull many county and state level information together, but requires using an API. 
     - This data requires that you use an API to download the data. You'll need to sign up by email to get an API Key and that should arrive fairly quickly. 
 
-You MUST use one or more of these datasets. We recommend starting with QuickStats and moving into the map-based data as you are comfortable. 
+You MUST use <i>at least</i> one or more of these datasets. You are welcome to use as many of these as you'd like for your work, but at least one should make it into it. We recommend starting with QuickStats and moving into the map-based data as you are comfortable. 
 - QuickStats Database
 - CropScape
 - VegScape

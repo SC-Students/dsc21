@@ -13,6 +13,7 @@ This is a list of datasets, repositories, and search tools for your projects. Us
 ## St. Louis and US Government
 - City of St. Louis Gov’t Databases - <a href="https://www.stlouis-mo.gov/data/datasets/">https://www.stlouis-mo.gov/data/datasets/ </a>
 - US Government Data - <a href="http://www.data.gov/">http://www.data.gov/ </a>
+- State of Missouri Government Data - <a href="https://data.mo.gov/">https://data.mo.gov/</a>
 
 ## Environment and Ecology
 - Earth Data - <a href="https://earthdata.nasa.gov">https://earthdata.nasa.gov/</a>
@@ -35,6 +36,10 @@ This is a list of datasets, repositories, and search tools for your projects. Us
 - Pew Research - <a href="https://www.pewresearch.org/download-datasets/">https://www.pewresearch.org/download-datasets/</a>
 - Gallup Research - <a href="https://www.gallup.com/analytics/318923/world-poll-public-datasets.aspx">https://www.gallup.com/analytics/318923/world-poll-public-datasets.aspx</a>
 - WorldPop - <a href="https://www.worldpop.org/">https://www.worldpop.org/</a>
+- CDC Mental Health Data <a href="https://www.cdc.gov/mentalhealth/data_publications/index.htm">https://www.cdc.gov/mentalhealth/data_publications/index.htm</a>
+- SAMHSA <a href="https://www.samhsa.gov/data/data-we-collect">https://www.samhsa.gov/data/data-we-collect</a>
+- Social Science and Psych Data <a href="https://www.apa.org/research/responsible/data-links">https://www.apa.org/research/responsible/data-links </a>
+- Covid Distress Global Survey <a href="https://osf.io/z39us/files/"> https://osf.io/z39us/files/</a>
 
 ## Social Media and Networks
 - Dreaddit - <a href="https://arxiv.org/abs/1911.00133">https://arxiv.org/abs/1911.00133</a>

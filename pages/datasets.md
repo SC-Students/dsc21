@@ -21,6 +21,8 @@ This is a list of datasets, repositories, and search tools for your projects. Us
 - Climate Data Store - <a href="https://cds.climate.copernicus.eu/#!/home">https://cds.climate.copernicus.eu/#!/home</a>
 - CLIVAR - <a href="https://www.clivar.org/resources/data">https://www.clivar.org/resources/data</a>
 - NCEI NOAA Data - <a href="https://www.ncei.noaa.gov/products/land-based-station">https://www.ncei.noaa.gov/products/land-based-station</a>
+- Biodiversity Data (BISON) - <a href="https://bison.usgs.gov/#home">https://bison.usgs.gov/#home</a>
+- Paleoclimatology Data - <a href="https://www.ncei.noaa.gov/access/paleo-search/">https://www.ncei.noaa.gov/access/paleo-search/</a>
 
 ## World Data
 - World Bank Open Data - <a href="https://data.worldbank.org/">https://data.worldbank.org/</a>
